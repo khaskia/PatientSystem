@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Patient System</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_patient_list">PatientList</string>
+    <string name="title_activity_add_patent">AddPatent</string>
+    <string name="Medication">Medication</string>
+    <string name="title_activity_details_of_patient">DetailsOfPatient</string>
+    <string name="title_activity_edit_patient">EditPatient</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_search_result">SearchResult</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
